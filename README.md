@@ -23,7 +23,7 @@
 <a href="https://monterail.github.io/vuelidate/#sub-basic-form">
 	6.Vuelidate for Vue.js 2.0
 </a>	
-
+<br>
 <a href ="https://github.com/getjll/JavaScript-Style-Guide" >
 	  7.薛继苗翻译的airbnb javascript风格指南
 </a>
