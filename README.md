@@ -24,3 +24,6 @@
 	6.Vuelidate for Vue.js 2.0
 </a>	
 
+<a href ="https://github.com/getjll/JavaScript-Style-Guide" >
+	  7.薛继苗翻译的airbnb javascript风格指南
+</a>
