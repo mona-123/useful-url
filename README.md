@@ -27,10 +27,12 @@
 <a href ="https://github.com/getjll/JavaScript-Style-Guide" >
 	  7.薛继苗翻译的airbnb javascript风格指南
 </a>
-
+<br>
 <a href ="https://github.com/opendigg/awesome-github-vue" >
 	  8.Vue相关开源项目库汇总
 </a>
+<br>
 <a href ="http://www.alloyteam.com/nav/index.html" >
 	  9.web 前端导航
 </a>
+<br>
