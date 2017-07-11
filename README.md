@@ -39,3 +39,7 @@
 <a href ="https://www.iviewui.com/" >
 	  10.iviewui
 </a>
+<br>
+<a href ="http://www.jianshu.com/p/287e0bb867ae" >
+	  11.ES6这些就够了
+</a>
