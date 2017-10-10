@@ -47,3 +47,8 @@
 <a href ="http://blog.csdn.net/chenyufeng1991/article/details/60340006" >
 	  12. nodejs开发——express配置自签名https服务器
 </a>
+<br>
+<a href="https://segmentfault.com/a/1190000010203499">
+你想要的——vuex源码分析
+https://segmentfault.com/a/1190000010203499
+</a>
